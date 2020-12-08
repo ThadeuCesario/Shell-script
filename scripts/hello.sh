@@ -7,6 +7,8 @@
 
 # O ideal é que cada script retorne um exit code, para que o interpretador saiba que o código finalizou sua execução,
 # ou se gerou algum erro. Alguns interpretadores, como o Code Runner, adota o exit code como 0.
+# Quando der tudo certo o padrão é 0
+# Quando der algum erro o padrão é 2
 
 echo "Hello world from bash!";
 exit 1;
