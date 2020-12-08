@@ -7,7 +7,6 @@
 # Quando utilizamos o $0, significa que estamos acessando o primeiro parametro. Sendo que o primeiro parametro, 
 # será sempre o arquivo que estamos executando.
 
-
 echo "Primeiro parametro: $0";
 echo "Quantidade de parametros: $#";
 echo "Todos os parametros: $*";
