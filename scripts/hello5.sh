@@ -1,3 +1,4 @@
 #!/usr/bin/node
 
-console.log("Hello world from NODE");
+const teste = 5;
+console.log("Hello world from NODE", teste);
