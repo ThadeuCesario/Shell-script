@@ -9,3 +9,4 @@
 # ou se gerou algum erro. Alguns interpretadores, como o Code Runner, adota o exit code como 0.
 
 echo "Hello world from bash!";
+exit 1;
