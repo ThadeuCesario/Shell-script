@@ -2,4 +2,5 @@
 
 # Nesse arquivo estamos utilizando o NODE para rodar este arquivo. 
 
-console.log("Hello world from NODE");
+const teste = 5;
+console.log(teste);
