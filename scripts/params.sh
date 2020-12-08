@@ -5,4 +5,5 @@
 
 
 echo "Primeiro parametro: $0";
-echo "Quantidade de parametros: $#"
+echo "Quantidade de parametros: $#";
+echo "Todos os parametros: $*";
