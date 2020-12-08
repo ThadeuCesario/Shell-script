@@ -9,6 +9,7 @@
 # ou se gerou algum erro. Alguns interpretadores, como o Code Runner, adota o exit code como 0.
 # Quando der tudo certo o padrão é 0
 # Quando der algum erro o padrão é 2
+# O shell script segue um paradigma procedural.
 
 echo "Hello world from bash!";
 exit 1;
