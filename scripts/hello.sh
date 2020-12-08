@@ -9,3 +9,4 @@
 # ou se gerou algum erro.
 
 echo "Hello world from bash!";
+exit 1;
