@@ -6,6 +6,6 @@
 # Utilizando shell script podemos referenciar os interpretadores de várias linguagens e escrever o código com ela.
 
 # O ideal é que cada script retorne um exit code, para que o interpretador saiba que o código finalizou sua execução,
-# ou se gerou algum erro. Alguns interpretadores, como o Code Runner, adota o exit code
+# ou se gerou algum erro. Alguns interpretadores, como o Code Runner, adota o exit code como 0.
 
 echo "Hello world from bash!";
