@@ -2,4 +2,4 @@
 
 # Nesse arquivo estamos utilizando o SH para rodar este arquivo. 
 
-echo "Hello world from bash!";
+echo "Hello world from sh!";
